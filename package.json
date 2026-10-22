@@ -1,0 +1,9 @@
+{
+  "name": "ds76s-shared-avatar-site",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "^8.2.0"
+  }
+}
